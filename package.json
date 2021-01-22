@@ -1,0 +1,23 @@
+{
+  "name": "node-hello",
+  "version": "1.0.0",
+  "description": "A Hello World HTTP server using Node JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/think-js/node-hello"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "support@think-js.com",
+  "license": "MIT",
+  "devDependencies": { "test": ">=0.6.0" }
+}
+

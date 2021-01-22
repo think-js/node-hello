@@ -1,0 +1,7 @@
+
+git add .
+
+copy added files and folders
+
+(no need to use --all, we already have subfolders)
+git add --all

@@ -18,6 +18,7 @@
   ],
   "author": "support@think-js.com",
   "license": "MIT",
-  "devDependencies": { "test": ">=0.6.0" }
+  "devDependencies": {
+    "test": ">=0.6.0"
+  }
 }
-
